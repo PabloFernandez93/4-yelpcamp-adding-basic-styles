@@ -10,6 +10,9 @@ Note:
 It still looks horrible but it is a very basic CRUD application. Bootstrap, express and mongoose working together in harmony.
 
 How to run it:
-npm init -y
-npm install 
+
+- install node.js
+- install mongodb and run it in the background
+- npm init -y
+- npm install (to install all the dependencies at once)
 
